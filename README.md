@@ -5,4 +5,4 @@ Litecoin, podobnie jak BTC to kryptowaluta oparta na zdecentralizowanej sieci bl
 # Litecoin- kurs
 
 Historia kursu LTC jest podobna do Bitcoina, systematycznie rósł do 2017, kiedy nastąpiło znaczące wybicie do 375 dolarów, po którym pojawił się spory spadek i wartość z końca 2017 udało się przebić dopiero w maju 2021 roku.
-<img src="BTC_ALL_graph_coinmarketcap-d9e91016679f4f69a186e0c6cdb23d44.jpg" alt=":(">
+<img src="kurs-litecoin-1024x357.png" alt=":(">
